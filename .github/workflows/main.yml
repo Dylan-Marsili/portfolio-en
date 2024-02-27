@@ -24,7 +24,7 @@ jobs:
           echo "" > .env.local
           echo BASE_PATH=$BASE_PATH >> .env.local
       - name: Build
-        run: npm run build
+        run: pnpm run build
       - name: Create .nojekyll
         run: touch ./out/.nojekyll
       - name: Deploy
