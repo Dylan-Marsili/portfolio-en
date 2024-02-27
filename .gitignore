@@ -45,6 +45,8 @@ jspm_packages/
 node_modules/*
 !node_modules/@fortawesome
 
+out
+
 # TypeScript v1 declaration files
 typings/
 
