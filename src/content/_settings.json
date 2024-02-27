@@ -1,0 +1,24 @@
+{
+	"name": "Dylan Marsili",
+	"logo": "",
+	"splashscreen": true,
+
+	"autoupdatecheck": false,
+	"version": "1.0.6",
+
+	"username": {
+		"github": "dylan-marsili",
+		"medium": "",
+		"dev": "dylan-marsili"
+	},
+	"repository": {
+		"owner": "dylan-marsili",
+		"name": "portfolio",
+		"repoName": "portfolio"
+	},
+	"portfolio": {
+		"fork_this": "",
+		"repo_html": "",
+		"repo_api": ""
+	}
+}

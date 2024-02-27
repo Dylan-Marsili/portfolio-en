@@ -1,0 +1,51 @@
+{
+	"Websites": [
+		{
+			"person": "dylanmarsili.is-a.dev",
+			"link": "https://dylanmarsili.is-a.dev",
+			"note": "My Portfolio (This website)"
+		},
+		{
+			"person": "dtprogramming.store",
+			"link": "https://dtprogramming.store",
+			"note": "Freelance Project"
+		}
+
+	],
+
+	"links": [
+		{
+			"person": "Home",
+			"link": "https://dylanmarsili.is-a.dev",
+			"note": ""
+		},
+		{ 
+			"person": "Featured Projects",
+			"link": "https://dylanmarsili.is-a.dev/docs",
+			"note": ""
+		},
+		{
+			"person": "Recent Projects",
+			"link": "https://dylanmarsili.is-a.dev/projects",
+			"note": ""
+		},
+		{
+			"person": "Contact",
+			"link": "mailto:marsilidylan@gmail.com",
+			"note": ""
+		}
+
+
+	],
+
+	"social": [
+		{
+			"url": "https://www.linkedin.com/in/dylan-marsili-94a693265/",
+			"icon": "linkedin"
+		},
+		{
+			"url": "https://github.com/dylan-marsili",
+			"icon": "github"
+		}
+	]
+}

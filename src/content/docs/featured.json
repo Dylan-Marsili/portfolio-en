@@ -1,0 +1,19 @@
+[
+  {
+    "title": "dylanmarsili.is-a.dev",
+    "pubDate": "2023-07-05",
+    "link": "",
+    "author": "Dylan Marsili",
+    "thumbnail": "/img/jobs.png",
+    "categories": ["Portfolio", "Website", "Blog","personal"]
+  },
+  {
+    "title": "effects",
+    "pubDate": "2023-05-31",
+    "link": "https://github.com/Dylan-Marsili/effects",
+    "author": "Dylan Marsili",
+    "thumbnail": "/img/neurolink.png",
+    "categories": ["Effects","HTML","CSS","Javascript"]
+  }
+
+]
