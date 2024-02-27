@@ -1,7 +1,7 @@
 {
 	"name": "Dylan Marsili",
 	"logo": "",
-	"splashscreen": true,
+	"splashscreen": false,
 
 	"autoupdatecheck": false,
 	"version": "1.0.6",

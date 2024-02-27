@@ -8,7 +8,8 @@ const withPWA = require('next-pwa')({
 
 })
 
-module.exports =  withPWA({
+
+module.exports = withPWA({
 
 	webpack: (config) => {
 		// Add your custom Webpack configurations here
@@ -68,7 +69,7 @@ Don't remove these this uses the protocol that are need to function properly
 			{
 				protocol: 'https',
 				hostname: 'github.com',
-				pathname: '/muhammad-fiaz/portfolio/**',
+				pathname: '/dylan-marsili/portfolio/**',
 			},
 
 		],
